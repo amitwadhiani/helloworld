@@ -4,3 +4,6 @@ I have tried my best to learn all the code..
 
 Raman is my brother and we both earn in crores every year....
 Thank you IT.
+
+This is my ultimate edit. I am a cloud deployer, a devops engineer. My life is set.
+
